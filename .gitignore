@@ -3,3 +3,5 @@
 *.net
 
 !first.py
+
+[aeious]*.txt
